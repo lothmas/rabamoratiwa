@@ -439,7 +439,7 @@ img {
   display: inline;
   float: left;
   width: 100%;
-  padding: 30px 0;
+  padding: 10px 0;
 }
 
 .mu-about-us-area {
@@ -493,7 +493,7 @@ img {
 .mu-title .mu-subtitle {
   font-size: 35px;
   font-family: "Tangerine", cursive;
-  line-height: 30px;
+  line-height: normal;
 }
 .mu-title .mu-subtitle1 {
   font-size: 35px;
