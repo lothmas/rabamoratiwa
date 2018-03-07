@@ -439,7 +439,7 @@ img {
   display: inline;
   float: left;
   width: 100%;
-  padding: 100px 0;
+  padding: 30px 0;
 }
 
 .mu-about-us-area {
@@ -1141,7 +1141,7 @@ RESERVATION SECTION
 #mu-chef {
   display: inline;
   float: left;
-  padding: 100px 0;
+  padding: 30px 0;
   width: 100%;
 }
 
@@ -1197,7 +1197,7 @@ RESERVATION SECTION
 .mu-chef-nav .slick-list li .mu-single-chef .mu-single-chef-img {
   display: inline;
   float: left;
-  width: 100%;
+  width: 50%;
 }
 
 .mu-chef-nav .slick-list li .mu-single-chef .mu-single-chef-img img {
