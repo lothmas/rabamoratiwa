@@ -165,13 +165,11 @@ img {
 
 #mu-header {
   background-color: #fff;
-  border-bottom: 1px solid #ddd;
   position: fixed;
   left: 0;
-  top: 0;
   right: 0;
-  width: 100%;
-  z-index: 999;
+
+
 }
 
 
@@ -492,12 +490,12 @@ img {
 
 .mu-title .mu-subtitle {
   font-size: 35px;
-  font-family: "Tangerine", cursive;
+  font-family: "Calendary Hands";
   line-height: normal;
 }
 .mu-title .mu-subtitle1 {
   font-size: 35px;
-  font-family: "Tangerine";
+  font-family: "Calendary Hands";
   line-height: 30px;
 }
 

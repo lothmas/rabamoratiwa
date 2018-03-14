@@ -321,3 +321,12 @@
     opacity: .75;
     color: black;
 }
+.logo-icon{
+    width:100px;
+    height:70px;
+    border:2px  #fff;
+    text-align:center;
+    line-height:28px;
+    font-size:13px;
+    display:inline-block;
+}
