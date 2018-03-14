@@ -1160,8 +1160,6 @@ RESERVATION SECTION
 .mu-chef-nav {
   display: inline;
   float: left;
-  text-align: center;
-  width: 100%;
 }
 
 .mu-chef-nav .slick-list li {
