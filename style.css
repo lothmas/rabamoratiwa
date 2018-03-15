@@ -489,9 +489,11 @@ img {
 }
 
 .mu-title .mu-subtitle {
-  font-size: 35px;
-  font-family: "Calendary Hands";
+  font-size: 48px;
+  font-family: "Tangerine", cursive;
   line-height: normal;
+  color: #E34125;
+  font-weight: bold;
 }
 .mu-title .mu-subtitle1 {
   font-size: 35px;
