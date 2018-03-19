@@ -1486,6 +1486,7 @@ RESERVATION SECTION
   display: inline;
   float: left;
   width: 100%;
+  color: white;
 }
 
 .mu-footer-copyright p {
