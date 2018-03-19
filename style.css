@@ -165,11 +165,13 @@ img {
 
 #mu-header {
   background-color: #fff;
+  border-bottom: 1px solid #ddd;
   position: fixed;
   left: 0;
+  top: 0;
   right: 0;
-
-
+  width: 100%;
+  z-index: 999;
 }
 
 
@@ -309,16 +311,16 @@ img {
   width: 100%;
 }
 
-.mu-top-slider .mu-top-slider-single:after {
-  background-color: rgba(0, 0, 0, 0.6);
-  bottom: 0;
-  content: "";
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 9;
-}
+/*.mu-top-slider .mu-top-slider-single:after {*/
+  /*background-color: rgba(0, 0, 0, 0.6);*/
+  /*bottom: 0;*/
+  /*content: "";*/
+  /*left: 0;*/
+  /*position: absolute;*/
+  /*right: 0;*/
+  /*top: 0;*/
+  /*z-index: 9;*/
+/*}*/
 
 .mu-top-slider .mu-top-slider-single img {
   width: 100%;
@@ -486,14 +488,15 @@ img {
   width: 100%;
   margin-bottom: 20px;
   text-align: center;
+  font-family: "Open Sans", sans-serif;
 }
 
 .mu-title .mu-subtitle {
   font-size: 48px;
-  font-family: "Tangerine", cursive;
+  font-family: "Tangerine";
   line-height: normal;
   color: #E34125;
-  font-weight: bold;
+
 }
 .mu-title .mu-subtitle1 {
   font-size: 35px;
@@ -539,6 +542,7 @@ img {
 .mu-counter-nav {
   display: inline-block;
   width: 100%;
+    font-family: "Open Sans", sans-serif;
 }
 
 .mu-counter-nav li {
@@ -556,6 +560,8 @@ img {
   padding: 25px 0;
   text-align: center;
   width: 100%;
+  font-family: "Open Sans", sans-serif;
+
 }
 
 .mu-counter-nav li .mu-single-counter span {
@@ -1439,6 +1445,8 @@ RESERVATION SECTION
   float: left;
   padding: 50px 0;
   width: 100%;
+  text-align: left;
+  font-family: "Open Sans", sans-serif;
 }
 
 .mu-footer-area {
@@ -1854,4 +1862,20 @@ RESERVATION SECTION
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
+}
+.MyButton {
+    width: 150px;
+    padding: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 90%;
+    background: #5792cc;
+    color: #fff;
+    border: 1px solid #5792cc;
+    border-radius: 10px;
+}
+.MyButton:hover {
+    color: #7effa3;
+    background: #5792cc;
+    border: 1px solid #fff;
 }
