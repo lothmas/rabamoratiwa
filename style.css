@@ -1866,17 +1866,20 @@ RESERVATION SECTION
 }
 .MyButton {
     width: 150px;
-    padding: 15px;
+    padding: 4px;
     cursor: pointer;
-    font-weight: bold;
     font-size: 90%;
-    background: #5792cc;
+    background: #7b94cc;
     color: #fff;
     border: 1px solid #5792cc;
-    border-radius: 10px;
 }
 .MyButton:hover {
-    color: #7effa3;
+    color: #b94a48;
     background: #5792cc;
     border: 1px solid #fff;
+}
+.inner {
+  display: table;
+  margin: 0 auto;
+  width: 270px;
 }
