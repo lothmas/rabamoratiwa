@@ -1910,3 +1910,16 @@ RESERVATION SECTION
   background-image: radial-gradient(black 40%, transparent 33%);
   background-size: 3px 3px;
 }
+.overlay111 {
+
+  background: transparent url("http://i.imgur.com/8B7UFiv.png") repeat;
+
+  position: absolute;
+
+  left: 0;
+
+  top: 0;
+
+  width: 100%;
+
+  height: 100%;
