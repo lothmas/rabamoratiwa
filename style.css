@@ -1909,5 +1909,5 @@ RESERVATION SECTION
   bottom: 0;
   background: rgba(127, 127, 127, 0.5);
   background-image: radial-gradient(black 33%, transparent 33%);
-  background-size: 2px 2px;
+  background-size: 3px 3px;
 }
