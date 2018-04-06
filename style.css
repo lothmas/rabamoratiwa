@@ -164,7 +164,7 @@ img {
 ====================*/
 
 #mu-header {
-  background-color: #fff;
+  background-color: #ffffff;
   border-bottom: 1px solid #ddd;
   position: fixed;
   left: 0;
@@ -172,6 +172,7 @@ img {
   right: 0;
   width: 100%;
   z-index: 999;
+  font-weight: 600;
 }
 
 
@@ -227,6 +228,7 @@ img {
   -ms-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
+
 }
 
 .mu-main-navbar .navbar-header .navbar-brand img {
