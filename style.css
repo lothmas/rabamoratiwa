@@ -63,7 +63,7 @@ h3,
 h4, 
 h5, 
 h6 {
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
 }
 
 h2 {
@@ -80,7 +80,7 @@ img {
 
 .mu-readmore-btn {
   background-color: #fff;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
   display: inline-block;
   font-size: 16px;
   padding: 15px 35px;
@@ -193,7 +193,7 @@ img {
 }
 
 .mu-main-navbar .mu-main-nav {
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
 }
 
 .mu-main-navbar .mu-main-nav li a {
@@ -490,7 +490,7 @@ img {
   width: 100%;
   margin-bottom: 20px;
   text-align: center;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
 }
 
 .mu-title .mu-subtitle {
@@ -544,7 +544,7 @@ img {
 .mu-counter-nav {
   display: inline-block;
   width: 100%;
-    font-family: "Liberation Serif", sans-serif;
+    font-family: "Titillium", sans-serif;
 }
 
 .mu-counter-nav li {
@@ -556,13 +556,13 @@ img {
 }
 
 .mu-counter-nav li .mu-single-counter {
-  color: #060606;
+  color: #ffffff;
   display: inline;
   float: left;
-  padding: 25px 0;
+  padding: 5px 0;
   text-align: center;
   width: 100%;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
 }
 
 .mu-counter-nav li .mu-single-counter span {
@@ -579,7 +579,7 @@ img {
 }
 
 .mu-counter-nav li .mu-single-counter h3 span {
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
   font-size: 35px;
   font-weight: bold;
   line-height: 40px;
@@ -634,7 +634,7 @@ img {
 }
 
 .mu-restaurant-menu li a {
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
   font-size: 18px;
   border-radius: 0;
   color: #fff;
@@ -1112,7 +1112,7 @@ RESERVATION SECTION
   display: inline-block;
   font-size: 18px;
   font-weight: bold;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
   letter-spacing: 1px;
   margin-bottom: 0;
   min-width: 175px;
@@ -1150,7 +1150,7 @@ RESERVATION SECTION
   float: left;
   padding: 30px 0;
   width: 100%;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
 
 }
 
@@ -1312,7 +1312,7 @@ RESERVATION SECTION
 .mu-contact-left {
   display: inline;
   float: left;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
   width: 100%;
 }
 
@@ -1449,7 +1449,7 @@ RESERVATION SECTION
   padding: 50px 0;
   width: 100%;
   text-align: left;
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
 }
 
 .mu-footer-area {
@@ -1493,7 +1493,7 @@ RESERVATION SECTION
 }
 
 .mu-footer-copyright p {
-  font-family: "Liberation Serif", sans-serif;
+  font-family: "Titillium", sans-serif;
   font-size: 16px;
   letter-spacing: 0.5px;
   color: #fff;
@@ -1963,4 +1963,15 @@ RESERVATION SECTION
 
 .dropdown:hover .dropbtn {
   /*background-color: #3e8e41;*/
+}
+
+.hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 3px;
+  color: #6681ff;
 }
