@@ -1886,6 +1886,11 @@ RESERVATION SECTION
   margin: 0 auto;
   width: 270px;
 }
+.outer {
+  display: table;
+  margin: 0 auto;
+  width: 500px;
+}
 .inner2 {
   display: table;
   margin: 0 auto;
