@@ -32,7 +32,7 @@ jQuery(function($){
     jQuery('.mu-top-slider').slick({
       dots: true,
       infinite: true,
-      arrows: true,
+      arrows: false,
       speed: 500,     
       autoplay: true,
       fade: true,
