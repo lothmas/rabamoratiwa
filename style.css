@@ -1980,3 +1980,11 @@ RESERVATION SECTION
   border-width: 3px;
   color: #6681ff;
 }
+
+.actives{
+  border-color: white;
+  border-left-color: black;
+  border-top-color: black;
+  color: white;
+  background-color: #ffbb49;
+}
