@@ -1985,6 +1985,6 @@ RESERVATION SECTION
   border-color: white;
   border-left-color: black;
   border-top-color: black;
-  color: white;
-  background-color: #ffbb49;
+  color: #ffbb49;
+  /*background-color: #ffbb49;*/
 }
